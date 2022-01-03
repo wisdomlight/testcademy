@@ -1,0 +1,10 @@
+h1 {
+	color: brown;
+	font-family: monospace;
+	font-style: oblique;
+}
+.main {
+	color: yellow;
+	font-family: Helvetica;
+	font-weight: bold;
+}
