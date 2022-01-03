@@ -8,3 +8,9 @@ h1 {
 	font-family: Helvetica;
 	font-weight: bold;
 }
+
+img {
+	height: 100px;
+	width: auto;
+	box-shadow: 5px 10px #888888;
+}
